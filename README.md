@@ -1,7 +1,7 @@
 LfjErrorLayout
 ==============
 
-Version 20120921 Created By Lorenzo Ferrara Junior
+Version 1.0 Created By Lorenzo Ferrara Junior
 
 Introduction
 ------------
