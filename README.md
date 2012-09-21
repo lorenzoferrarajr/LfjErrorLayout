@@ -6,7 +6,7 @@ Version 1.0 Created By Lorenzo Ferrara Junior
 Introduction
 ------------
 
-LfjErrorLayout is a ZF2 module that allows you to use alternative layout when dispatch errors occur.
+LfjErrorLayout is a ZF2 module that allows you to use an alternative layout when a dispatch errors occur.
 
 Usage
 -----
