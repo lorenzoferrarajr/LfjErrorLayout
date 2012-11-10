@@ -11,7 +11,14 @@ LfjErrorLayout is a ZF2 module that allows you to use an alternative layout when
 Usage
 -----
 
-Using the module simple. Just add the `layout/error`, `error/404` and `error/index` paths to the view_manager in any module configuration:
+To enable the module just add it to your `application.config.php` file.
+
+**Note that you must add it before any other module or your custom configuration options could be replaced with the default ones!**
+
+Configuration
+-----
+
+Optionally, you can configure your custom `layout/error`, `error/404` and `error/index` paths in the view_manager option in any module configuration:
 
 ```php
 return array(
